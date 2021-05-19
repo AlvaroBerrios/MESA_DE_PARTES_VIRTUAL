@@ -1,0 +1,22 @@
+[12-Nov-2015 17:28:08 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/wwwugel03/public_html/fut/app/libraries/PHPMailer/class.phpmailer.php on line 1443
+[13-Nov-2015 02:37:55 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/wwwugel03/public_html/fut/app/libraries/PHPMailer/class.phpmailer.php on line 1443
+[19-Feb-2016 11:12:23 America/New_York] PHP Warning:  POST Content-Length of 29587957 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Jun-2016 10:04:42 America/New_York] PHP Warning:  POST Content-Length of 8841225 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Jun-2016 10:25:09 America/New_York] PHP Warning:  POST Content-Length of 8841325 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Jun-2016 10:35:20 America/New_York] PHP Warning:  POST Content-Length of 8841418 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-Dec-2016 20:45:45 America/New_York] PHP Warning:  POST Content-Length of 11149887 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Feb-2017 13:21:45 America/New_York] PHP Warning:  POST Content-Length of 14836545 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Feb-2017 08:41:01 America/New_York] PHP Warning:  POST Content-Length of 12591120 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[23-Mar-2017 13:12:31 America/New_York] PHP Warning:  POST Content-Length of 14093884 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[23-Mar-2017 13:29:42 America/New_York] PHP Warning:  POST Content-Length of 13694771 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[20-May-2017 18:31:26 America/New_York] PHP Warning:  POST Content-Length of 15693013 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Jul-2017 23:14:50 America/New_York] PHP Warning:  POST Content-Length of 11826239 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Aug-2017 16:54:43 America/New_York] PHP Fatal error:  Class 'SMTP' not found in /home/wwwugel03/public_html/fut/app/libraries/PHPMailer/class.phpmailer.php on line 1443
+[27-Sep-2017 22:45:52 America/New_York] PHP Warning:  POST Content-Length of 9439069 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Oct-2017 19:30:15 America/New_York] PHP Parse error:  syntax error, unexpected '$mail' (T_VARIABLE) in /home/wwwugel03/public_html/fut/app/controllers/Tramite.php on line 184
+[17-Oct-2017 14:58:52 America/New_York] PHP Warning:  POST Content-Length of 9811134 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Oct-2017 14:59:42 America/New_York] PHP Warning:  POST Content-Length of 9811134 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Oct-2017 15:00:06 America/New_York] PHP Warning:  POST Content-Length of 9811134 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Oct-2017 15:04:28 America/New_York] PHP Warning:  POST Content-Length of 9986441 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[08-Feb-2018 12:24:21 America/New_York] PHP Warning:  POST Content-Length of 15838674 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[14-Feb-2018 00:15:53 America/New_York] PHP Warning:  POST Content-Length of 13685143 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
